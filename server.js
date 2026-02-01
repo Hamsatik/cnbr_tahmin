@@ -6,7 +6,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const app = express();
 app.use(bodyParser.urlencoded({ extended: true }));
 
-const BOT_TOKEN = '8356724745:AAEIy79syAV1UwzxRTE_a-3DpazXewx8LGQ';
+const BOT_TOKEN = 'xxxxx';
 const bot = new TelegramBot(BOT_TOKEN);
 
 
@@ -303,4 +303,5 @@ app.get('/result/:postId', (req, res) => {
 
 app.listen(3000, () => {
   console.log('Server çalışıyor: http://localhost:3000');
+
 });
