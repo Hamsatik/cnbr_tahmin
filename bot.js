@@ -2,13 +2,13 @@ const TelegramBot = require('node-telegram-bot-api');
 const fs = require('fs');
 const { v4: uuidv4 } = require('uuid');
 
-const TOKEN = '8356724745:AAEIy79syAV1UwzxRTE_a-3DpazXewx8LGQ';
+const TOKEN = 'xxxx';
 const bot = new TelegramBot(TOKEN, { polling: true });
 
 const POSTS_FILE = './posts.json';
 
 const CHANNELS = [
-  '@cnbr_yorum'
+  '@kanal'
 ];
 
 if (!fs.existsSync(POSTS_FILE)) {
@@ -101,3 +101,4 @@ bot.on('message', async (msg) => {
     });
   }
 });
+
