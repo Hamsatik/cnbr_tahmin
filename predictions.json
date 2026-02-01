@@ -1,0 +1,38 @@
+{
+  "305958d9-604b-4584-9fed-902474ef84c1": [
+    {
+      "telegramId": "undefined",
+      "username": "undefined",
+      "home": 1,
+      "away": 1,
+      "date": "2026-02-01T16:36:49.599Z"
+    },
+    {
+      "telegramId": "7993077652",
+      "username": "Opoteka",
+      "home": 1,
+      "away": 2,
+      "date": "2026-02-01T16:27:30.159Z"
+    }
+  ],
+  "4f97eaeb-943c-404f-9572-3f863f678b26": [
+    {
+      "telegramId": "7993077652",
+      "username": "Opoteka",
+      "rumuz": "Hermetik",
+      "home": 1,
+      "away": 1,
+      "date": "2026-02-01T17:06:15.586Z"
+    }
+  ],
+  "18cd2742-74d9-4c63-af0e-3385a788d3fc": [
+    {
+      "telegramId": "7993077652",
+      "username": "Opoteka",
+      "rumuz": "Hermetika",
+      "home": 1,
+      "away": 2,
+      "date": "2026-02-01T18:47:16.837Z"
+    }
+  ]
+}

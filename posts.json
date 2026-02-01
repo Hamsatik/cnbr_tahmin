@@ -1,0 +1,82 @@
+{
+  "62b004b1-f7ca-4a10-bfa1-c0044a307924": {
+    "channelId": -1003694763799,
+    "messageId": 27
+  },
+  "cee2c9fe-c30c-482e-81b6-02dbb14274f8": {
+    "channelId": -1003694763799,
+    "messageId": 29
+  },
+  "c4bb01e3-069a-452d-a721-f8ba0a98949d": {
+    "type": "text",
+    "text": "test yeni form sayfası\n post infosunu basşlık olarak ekleme",
+    "channelId": -1003694763799,
+    "messageId": 30
+  },
+  "3d792c8a-4548-46fe-978b-d2385dc06edd": {
+    "type": "text",
+    "text": "Başlık + TG Yorum sayısı Artışı test",
+    "fileUrl": null,
+    "messages": [
+      {
+        "channelId": -1003694763799,
+        "messageId": 31
+      }
+    ]
+  },
+  "8dbe7c74-5b48-4153-887e-0ddbe432a2eb": {
+    "type": "text",
+    "text": "BAŞLIK HTML TEST",
+    "fileUrl": null,
+    "messages": [
+      {
+        "channelId": -1003694763799,
+        "messageId": 32
+      }
+    ]
+  },
+  "8831ec4c-eb06-4e57-ac6d-583f31a7d83c": {
+    "type": "text",
+    "text": "yeni test",
+    "channelId": -1003694763799,
+    "messageId": 33
+  },
+  "53d176aa-e5e8-42e7-bc78-39f4b6b59e16": {
+    "type": "text",
+    "text": "test etest",
+    "channelId": -1003694763799,
+    "messageId": 34
+  },
+  "1fe2b0e1-88a8-4ef3-8822-384dc542eb1d": {
+    "type": "text",
+    "text": "Modal Test",
+    "channelId": -1003694763799,
+    "messageId": 36
+  },
+  "305958d9-604b-4584-9fed-902474ef84c1": {
+    "type": "text",
+    "text": "Tahmin Test",
+    "channelId": -1003694763799,
+    "messageId": 38
+  },
+  "4f97eaeb-943c-404f-9572-3f863f678b26": {
+    "type": "text",
+    "text": "FENERBAHÇE - GALATASARAY\nSkor Tahmin Etkinliği",
+    "channelId": -1003694763799,
+    "messageId": 39
+  },
+  "bcb2e086-50c6-47ca-b922-0534e43db6f9": {
+    "type": "text",
+    "text": "CORS test—",
+    "channelId": -1003694763799,
+    "messageId": 40
+  },
+  "18cd2742-74d9-4c63-af0e-3385a788d3fc": {
+    "type": "photo",
+    "text": "❤️‍🔥Dev Maçta kazanan Coinbarlılar olsun diye;\n\n🎁Skoru doğru tahmin eden herkese Çevrimsiz 50 Freespin\n\n⚡️🚀💎🍭 🔣 Güncel Giriş\n\n👆Kurallar Telegram kanalımızdaki bir üst paylaşımda.\n👇Aşağıdaki butona tıklayarak tahmin yapabilirsiniz.",
+    "fileId": "AgACAgUAAxkBAAMnaX-dMxlDlZjNsppGGrGFIgIX2fIAAn4Oaxt9Z_lXHrvzPB0Jf3gBAAMCAAN5AAM4BA",
+    "channelId": -1003694763799,
+    "messageId": 41,
+    "fileUrl": "https://api.telegram.org/file/bot8356724745:AAEIy79syAV1UwzxRTE_a-3DpazXewx8LGQ/photos/file_0.jpg"
+  }
+}
